@@ -1,0 +1,38 @@
+body {
+	font-family: 'Nunito', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(to right, blue , grey); /* Standard syntax */
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Oswald', Helvetica, sans-serif;
+    font-size: 80px;
+    
+    letter-spacing: 4px;
+    word-spacing: -8px;
+    color: firebrick;
+    text-shadow: 
+      1px -1px 0 black,
+      2px -2px 0 grey,
+      3px -3px 0 grey,
+      4px -4px 0 grey,
+      5px -5px 0 grey,
+      6px -6px 0 grey,
+      7px -7px 0 grey,
+      8px -8px 0 black,
+      30px 20px 40px grey
+  }
+
+h3 {
+	font-family: 900 1em 'Nunito', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
