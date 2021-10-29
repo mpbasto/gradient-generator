@@ -9,6 +9,10 @@ body {
 }
 
 h1 {
+    @media (max-width: 768px) {
+        font-size: 78px; };
+    @media (max-width: 320px) {
+        font-size: 38px; };
     text-align: center;
     font-family: 'Oswald', Helvetica, sans-serif;
     font-size: 80px;
